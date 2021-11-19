@@ -1,0 +1,18 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "seek and you shall find",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mustafa salem",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+
